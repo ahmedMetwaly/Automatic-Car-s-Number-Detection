@@ -35,3 +35,6 @@ I learned how to detect license plate from images and in real time from video an
 There have been several advancements in technology and a lot of research has been done to help the people who are deaf and dumb. Aiding the cause, Deep learning, and computer vision can be used too to make an impact on this cause.
 Arabic Sign Language Recognation can be very helpful for the deaf and dumb people in communicating with others as knowing sign language is not something that is common to all.
 The aim of the Arabic sign language recogniation is to ptovide an accurate and convenient mechanism to trascibe the signs into meaningful text or speech that communication betseen deaf and hearning society can easily be made.
+
+the Arabic sign language is very huge we decided that we selected 20 words ( as a maximum ) under the Interpersonal acquaintance topic .
+the target group who does not know Arabic Sign language but wants to communicate with an Arabic Sign language  speaker such as a deaf Arabic individual
